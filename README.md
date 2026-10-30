@@ -10,3 +10,9 @@ How to run the website
 Clone or download this repository.
 Open the project folder on your computer.
 Open the index.html file with your preferred web browser.
+
+## Website
+
+The website is published using GitHub Pages:
+
+[Visit Green Bikes](https://leoauda.github.io/ed-git-website/)
